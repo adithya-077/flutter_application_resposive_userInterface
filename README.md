@@ -1,10 +1,10 @@
-->fultter project 
+->fultter project .
 
-->clean and responsive UI 
+->clean and responsive UI .
 
-->login page -> homepage 
+->login page and homepage implemented. 
 
-->Animated text is used 
+->Animated text package is used .
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ 
 
